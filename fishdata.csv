@@ -1,4 +1,4 @@
-Country,Code,Year,Aquaculture,Fisheries,Consumption,Artisanal,Industrial,Recreational,Subsistence,Stocks_within,Stocks_overexploited,p_increase_aqua,p_increase_fish,p_increase_consumption,p_increase_artisanal,p_increase_industrial,p_increase_recreational,p_increase_subsistence,p_increase_share_within,p_increase_share_over
+Country,Code,Year,Aquaculture (tonnes),Fisheries (tonnes),Consumption (kg per capita),Artisanal,Industrial,Recreational,Subsistence,Stocks_within,Stocks_overexploited,p_increase_aqua,p_increase_fish,p_increase_consumption,p_increase_artisanal,p_increase_industrial,p_increase_recreational,p_increase_subsistence,p_increase_share_within,p_increase_share_over
 Afghanistan,AFG,1969,60,400,0.04,,,,,,,,,,,,,,,
 Afghanistan,AFG,1970,60,400,0.04,,,,,,,0.00%,0.00%,0.00%,,,,,,
 Afghanistan,AFG,1971,60,500,0.05,,,,,,,0.00%,25.00%,25.00%,,,,,,
